@@ -484,9 +484,14 @@ footer ul {
     gap: 1.25rem;
   }
 
-  .populaires .card__title {
-    margin: 0;
+  .populaires .card__title { 
+    margin-top: 0.3rem;
+    padding: 0;
     font-size: 0.9rem;
+  }
+
+  .populaires .card__subtitle {
+    margin-top: -0.5rem;
   }
 
   .populaires .cards__container {
