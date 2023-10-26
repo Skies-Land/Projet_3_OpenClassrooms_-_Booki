@@ -6,6 +6,6 @@ Objectif du projet :
 - Installer un environnement de développement front-end
 - Intégrer du contenu conformément à une maquette Figma en HTML et CSS
 
-▶ [Voir le projet : Booki](https://skies-land.github.io/Projet-3-OpenClassrooms_-_Booki/)
+▶ [Voir le projet : Booki](https://skies-land.github.io/Projet-3-OpenClassrooms_-_Booki/) </br> </br>
 
-![Desktop](https://github.com/Skies-Land/Projet-3-OpenClassrooms_-_Booki/assets/146822518/74f1a6b5-d60c-4779-8bd1-51a5c107d70e)
+![Desktop](https://github.com/Skies-Land/Projet-3-OpenClassrooms_-_Booki/assets/146822518/b2abb6b9-1dcd-4f8c-be6f-500d0c326401)
