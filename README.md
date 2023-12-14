@@ -1,7 +1,7 @@
 # 🏨 Projet 3 - [OpenClassrooms](https://openclassrooms.com/fr/) "Intégrateur Web"
 Création d'une landing page permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
-Objectif du projet : 
+### Objectif du projet : 
 - Implémenter une interface responsive avec HTML et CSS
 - Installer un environnement de développement front-end
 - Intégrer du contenu conformément à une maquette Figma en HTML et CSS
